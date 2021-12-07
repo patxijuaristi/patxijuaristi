@@ -2,7 +2,7 @@
 <p align="top"> <img src="https://komarev.com/ghpvc/?username=patxijuaristi&label=Profile%20views&color=0e75b6&style=flat" alt="patxijuaristi" /></p>
 <table>
 <tr>
-  <td><p align="left">Iam a basque Computer Engineer, specialized in web development and process automation in order to improve user's work flow. Furthermore, I also have knowledge about mobile development and many other techology related aspects.</p></td>
+  <td><p align="left">I am a basque Computer Engineer, specialized in web development and process automation in order to improve user's work flow. Furthermore, I also have knowledge about mobile development and many other techology related aspects.</p></td>
   <td>
     <p align="center">
     <img src="https://juaristech.com/wp-content/uploads/2021/11/patxi-juaristi-pagegi-perfil.png" />
